@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CharityForm</title>
+    <link rel="stylesheet" href="css/styleNav.css">
+    <link rel="stylesheet" href="css/styleAbout.css">
+    <link rel="stylesheet" href="css/styleDonations.css">
+    <link rel="stylesheet" href="css/styleCharityForm.css">
+    <link rel="stylesheet" href="css/styleSignInNewAccount.css">
+
+</head>
+
+
+<header class="main-header">
+
+    <div class="nav-bar">
+    <h1 class="projectName">Project Name</a></h1>
+
+    <div class="nav-list">
+        <a class="listitem1"  href="home.html">Home</a>
+        <a class="listitem2"  href="about.html">About</a>
+        <a class="listitem3"  href="charityForm.html">CharityForm</a>
+        <a class="listitem3" href="donations.html">Donate</a>
+        <a class="listitem3" href="SignIn.html">Login</a>
+    </div>
+
+    </div>
+
+</header>
+
+
+
+
+<!-- Body -->
+<body>
+    
+
+    <!-- title and text-->
+    <div class="charityFormTitle">
+        <h1> Charity Form</h1>
+    </div>
+
+        <p class = "aboutCharityForm">
+            Enter the organisation or charity event details below. Thankyou for contributing!
+        </p>
+ 
+    </div>
+
+
+     <!-- Charity Sign Up Form -->
+     <div class="charityForm">
+        <form action="/action_page.php">
+
+
+            <input type="text" id="charityname" name="charityName" placeholder="Charity Name..">
+
+            <input type="text" id="email" name="emailAddress" placeholder="Email..">
+            
+            <input type="text" id="phone" name="phoneNumber" placeholder="Phone..">
+
+            <input type="text" id="address" name="charityAddress" placeholder="Address..">
+
+            <select id="state" name="state">
+                <option value="VIC">VIC</option>
+                <option value="NSW">NSW</option>
+                <option value="usa">SA</option>
+                <option value="usa">TAS</option>
+                <option value="usa">WA</option>
+                <option value="usa">ACT</option>
+                <option value="usa">NT</option>
+                <option value="usa">QLD</option>
+            </select>
+
+
+            <input type="date" id="startDate" name="date">
+
+            <input type="date" id="endDate" name="date">
+
+            <input type="text" id="description" name="description" placeholder="Description..">
+
+            <input type="submit" class="submit" value="Submit">
+
+        </div>
+
+    </form>
+          
+
+</body>
+</html>
