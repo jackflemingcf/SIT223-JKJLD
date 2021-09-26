@@ -1,10 +1,9 @@
-
 /* DONATION PAGE STYLES */
 
-.donationsTitle, .charityFormTitle {
+.donationsTitle {
 
-  padding-top: 15%;
-  padding-bottom: 4%;
+  padding-top: 10%;
+  padding-bottom: 2%;
   text-align: center;
   color: #59A2C8;
 
@@ -18,7 +17,7 @@
 }
 
 
-.aboutDonations, .aboutCharityForm{
+.aboutDonations {
   padding-bottom: 8%;
   padding-left: 20%;
   padding-right: 20%;
@@ -111,5 +110,7 @@
     margin: 8px 0;
     box-sizing: border-box;
   }
+
+
 
 
