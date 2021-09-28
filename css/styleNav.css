@@ -1,0 +1,104 @@
+
+/* NAV BAR STYLES */
+
+.nav-bar,
+.nav-list {
+  display: flex;
+}
+
+.nav-bar {
+
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.main-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: auto;
+  width: 100%;
+  background: #DEE1E7;
+
+
+}
+
+.nav-list {
+    flex-direction: row;
+    font-size: 1.3em;
+}
+
+
+.projectName {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    color: #035258;
+    padding-left: 8%;
+
+}
+
+.nav-list{
+
+    padding-right: 8%;
+}
+
+
+.listitem1 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+
+    padding-right: 8%;
+}
+
+
+.listitem2 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+
+    padding-right: 8%;
+}
+
+
+.listitem3 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+
+    padding-right: 8%;
+}
+
+
+.listitem4 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+
+    padding-right: 8%;
+}
+
+a {
+    text-decoration: none;
+}
+

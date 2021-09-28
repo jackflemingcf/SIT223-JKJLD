@@ -1,0 +1,116 @@
+/* DONATION PAGE STYLES */
+
+.donationsTitle {
+
+  padding-top: 10%;
+  padding-bottom: 2%;
+  text-align: center;
+  color: #59A2C8;
+
+}
+
+.donationsTitle, .charityFormTitle, h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+}
+
+
+.aboutDonations {
+  padding-bottom: 8%;
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: center;
+  
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #555555;
+
+}
+
+
+.choseADonation {
+
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 2%;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #4F4F4F;
+}
+
+
+
+.donation {
+  border-radius: 5px;
+  margin-bottom: 2%;
+
+  margin-left: 2%;
+  width: 250px;
+  height: 260px;
+
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), linear-gradient(180deg, rgba(121, 194, 189, 0.6) 0%, #79C2BD 100%);
+  position: relative;
+
+  }
+
+
+  .donationOptions{
+
+    margin-left: 30%;
+
+  }
+  
+  .donationColumn1{
+
+    display: flex;
+    flex-direction: row;
+  }
+
+  .donationColumn2{
+    display: flex;
+    flex-direction: row;
+  }
+
+
+  .donationIcon{
+
+    margin-top: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  .donationText{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight:100;
+    font-size: 20px;
+    line-height: 30px;
+    color:white;
+    
+    text-align: center;
+    margin-top: 20%;
+    
+  }
+  
+
+  input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+
+
+

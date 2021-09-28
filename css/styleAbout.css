@@ -1,0 +1,244 @@
+
+/* ABOUT PAGE STYLES */
+
+
+/* About ProductName */
+.aboutProduct{
+
+    padding-top: 10%;
+    padding-bottom: 2%;
+    text-align: center;
+    color: #59A2C8;
+
+}
+
+.aboutProduct, h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+}
+
+.aboutus, p{
+
+    padding-bottom: 2%;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight:100;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #555555;
+}
+
+.aboutus{
+
+  padding-bottom: 8%;
+}
+
+
+/* Click on one of the links to get started. */
+.ClickALink{
+
+  padding-bottom: 2%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #4F4F4F;
+
+}
+
+
+/* Boxes that link to other pages */
+.aboutlinks {
+
+  display: flex;
+  flex-direction: row;
+
+  padding-bottom: 10%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+/* .aboutlinks a{
+  display: inline-block;
+  vertical-align: middle;
+} */
+
+.boxLink1 {
+
+  width: 262px;
+  height: 163px;
+  left: 160px;
+  top: 930px;
+
+  background: linear-gradient(180deg, rgba(121, 194, 189, 0.45) 0%, rgba(121, 194, 189, 0.75) 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+
+.boxLink2 {
+
+  width: 262px;
+  height: 163px;
+  left: 160px;
+  top: 930px;
+
+  background: linear-gradient(180deg, rgba(121, 194, 189, 0.45) 0%, rgba(121, 194, 189, 0.75) 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+
+  margin-left: 10%;
+}
+
+
+.boxLink3 {
+
+  width: 262px;
+  height: 163px;
+  left: 160px;
+  top: 930px;
+
+  background: linear-gradient(180deg, rgba(121, 194, 189, 0.45) 0%, rgba(121, 194, 189, 0.75) 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+
+  margin-left: 10%;
+}
+
+
+.boxLinktext{
+
+  text-align: center;
+  vertical-align: middle;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color: white;
+  font-size: 20px;
+}
+
+
+
+.personPlaceholder {
+  width: 200px;
+  height: 200px;
+
+  margin-top: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.teamMemberName p {
+  padding-bottom: 1%;
+  margin-bottom: 1%;
+}
+
+
+
+
+
+/* About the team */
+.theTeam{
+
+  background: #F9F9F9;
+  padding-bottom: 20%;
+
+
+}
+
+.aboutTheTeam{
+
+  padding-top: 10%;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 47px;
+  text-align: center;
+  color: #59A2C8;
+
+}
+
+.person{
+
+width: 300px;
+height: 400px;
+
+background: #FFFFFF;
+box-shadow: 0px 5px 6px rgba(0, 0, 0, 0.3);
+border-radius: 5px;
+margin-bottom: 40%;
+
+  
+}
+
+.teamMemberName{
+
+  text-align: center;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+
+  padding-top: 4%;
+
+  color: #000000;
+
+
+}
+
+.teamRole{
+
+  font-family:Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight:100;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  
+
+  color: #000000;
+  
+}
+
+
+
+.columns{
+
+  display: flex;
+  flex-direction: row;
+  /* padding-left: 10%; */
+
+  width: 70%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.column2 {
+  float: right;
+  /* width: 40%; */
+  padding-left: 20%;
+
+
+}
+
+.column1 {
+  float: left;
+  /* width: 40%; */
+
+}
+
+
