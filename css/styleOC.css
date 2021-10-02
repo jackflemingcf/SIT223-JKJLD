@@ -1,0 +1,267 @@
+
+.menu2{
+float: right;
+width: 144px;
+height: 34px;
+
+background: #669699;
+border-radius: 5px;
+}
+.menu3{
+
+    width: 144px;
+    height: 34px;
+
+    background: #CDE7E5;
+    border-radius: 5px;
+}
+.menu4{
+    position: absolute;
+    width: 144px;
+    height: 34px;
+
+    background: #CDE7E5;
+    border-radius: 5px;
+}
+.menu5{
+
+    position: absolute;
+    width: 144px;
+    height: 34px;
+
+    background: rgba(121, 194, 189, 0.35);
+    border-radius: 5px;
+}
+
+
+.pageContentLeft{
+
+    float:left;
+    text-align: center;
+
+}
+
+
+
+.profileLink{
+
+    width: 144px;
+    height: 34px;
+    background: #ADD9D6;
+    padding: 2%;
+    text-align: center;
+    border-radius: 5px;
+
+    margin: 0 auto;
+    margin-top: 15%;
+}
+
+
+  .organisationLink{
+
+    
+    width: 144px;
+    height: 34px;
+    background: #ADD9D6;
+    padding: 2%;
+    text-align: center;
+    border-radius: 5px;
+
+    margin: 0 auto;
+    margin-top: 7%;
+  }
+
+
+
+
+
+  .mapLink{
+
+    margin-top: 5%;
+    width: 144px;
+    height: 34px;
+    background: #ADD9D6;
+    padding: 2%;
+    text-align: center;
+    border-radius: 5px;
+
+    margin: 0 auto;
+    margin-top: 7%;
+  }
+
+
+  .favouritesLink{
+
+    
+    width: 144px;
+    height: 34px;
+    background: #ADD9D6;
+    padding: 2%;
+    text-align: center;
+    border-radius: 5px;
+
+    margin: 0 auto;
+    margin-top: 7%;
+  }
+ 
+
+
+
+  .helpLink{
+
+    width: 144px;
+    height: 34px;
+    background: #ADD9D6;
+    padding: 2%;
+    text-align: center;
+    border-radius: 5px;
+
+    margin: 0 auto;
+    margin-top: 7%;
+  }
+ 
+
+
+
+.profileIcon{
+
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+    background: #C4C4C4;
+    border-radius: 100px;
+
+}
+
+.pageContent{
+  flex-direction: row;
+  /* margin-top: %; */
+}
+
+.pageContentRight{
+    /* float: right; */
+    flex-direction: column;
+
+}
+
+
+  
+
+.profileMenu{
+
+    width: 285px;
+    height: 874px;
+    left: 0px;
+    margin-top: 20%;
+    
+    background: white;
+    border: 1px solid #B5B5B5;
+    background: #F9F9F9;
+    box-sizing: border-box;
+    padding-top: 10%;
+}
+
+
+
+
+.profilePageTitle{
+
+
+    padding-top: 10%;
+    margin-bottom: 5%;
+
+    text-align: center;
+
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #59A2C8;
+    
+
+}
+
+
+.profileMenu a{
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: #000000;
+
+}
+
+
+
+.charityTable
+{
+
+    border-collapse: collapse;
+    width: 758px;
+    background-color: #E9F1F5;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin: auto;
+}
+
+
+#map {
+  height: 400px;
+
+  width: 400px;
+
+  margin: 0 auto;
+  
+}
+
+
+.editprofile{
+  width: 143.48px;
+  height: 150px;
+
+
+  background: linear-gradient(0deg, #EDF4F7, #EDF4F7), linear-gradient(180deg, rgba(224, 224, 224, 0.6) 0%, #8E8E8E 100%);
+  border-radius: 10px;
+}
+
+
+
+
+
+.profileColumn{
+
+
+  padding-top: 5%;
+  display: flex;
+  flex-direction: row;
+  padding-left: 15%;
+  padding-right: 20%;
+  
+}
+
+
+.profileCard{
+
+width: 200px;
+height: 200px;
+margin-left: 16%;
+
+background: #FFFFFF;
+box-shadow: 0px 5px 6px rgba(0, 0, 0, 0.3);
+border-radius: 5px;
+margin-bottom: 40%;
+text-align: center;
+background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), #E9F1F5;
+border-radius: 10px;
+
+}
+
+
+.profileCardImage{
+
+  padding-top: 8%;
+  width: 100px;
+  height: 100px;
+
+}
