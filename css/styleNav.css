@@ -41,6 +41,21 @@
 
 }
 
+.profileProjectName {
+
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    color: #035258;
+    padding-left: 8%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+
+
+}
+
 .nav-list{
 
     padding-right: 8%;
