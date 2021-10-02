@@ -1,6 +1,4 @@
-
-
-  /* CHARITY FORM PAGE STYLES */
+/* CHARITY FORM PAGE STYLES */
 
 
 .charityFormTitle {
@@ -26,7 +24,7 @@
     border-radius: 8px;
  }
 
- .submit {
+ .submitCharity {
 
    display:flex;
    margin:auto;
@@ -64,3 +62,4 @@
    color: #4F4F4F;
 
  }
+
